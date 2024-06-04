@@ -4,4 +4,4 @@
 
 ## Public Speaking
 
-* [Beyond Paper: Transforming Signiel Hotel with Digital Document Solutions]() @ Signiel Seoul, Lotte World Tower, Seoul, South Korea
+* [Beyond Paper: Digital Solutions for Signiel]() @ Signiel Seoul, Lotte World Tower, Seoul, South Korea
