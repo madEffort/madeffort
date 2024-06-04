@@ -4,4 +4,4 @@
 
 ## Public Speaking
 
-* [Beyond Paper: Digital Solutions for Signiel]() @ Signiel Seoul, Lotte World Tower, Seoul, South Korea
+* [Beyond Paper: Digital Solutions for Signiel](/assets/signiel_speaking.gif) @ Signiel Seoul, Lotte World Tower, Seoul, South Korea
