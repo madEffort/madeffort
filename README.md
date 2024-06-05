@@ -1,6 +1,8 @@
 # About Me
 
-![](https://komarev.com/ghpvc/?username=madeffort&color=blueviolet)
+[![GitHub](https://img.shields.io/badge/GitHub-%40madEffort-239a3b.svg)](https://github.com/madEffort)
+[![LinkedIn](https://img.shields.io/badge/Linked-In-0e76a8.svg)](https://www.linkedin.com/in/madeffort/)
+![](https://komarev.com/ghpvc/?username=madeffort&color=red)
 
 ## Public Speaking
 
