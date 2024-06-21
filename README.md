@@ -11,3 +11,8 @@
 
 * [The 25th Annual Intelligent Ground Vehicle Competition: 3rd Place](http://www.igvc.org/design/2017/2.pdf) @ Oakland University in Rochester, Michigan, U.S.A.
 * [The Hanbit Media JavaFX Application Contest: Silver Award](https://cafe.naver.com/thisisjava/7520) @ Hanbit Media, South Korea
+
+## Patents
+
+* [Method and apparatus for providing electronic document data through speaker identification](https://patents.google.com/patent/KR102280453B1/en)
+  
