@@ -10,3 +10,4 @@
 ## Awards
 
 * [The 25th Annual Intelligent Ground Vehicle Competition: 3rd Place](http://www.igvc.org/design/2017/2.pdf) @ Oakland University in Rochester, Michigan, U.S.A.
+* [The Hanbit Media JavaFX Application Contest: Silver Award](https://cafe.naver.com/thisisjava/7520) @ Hanbit Media, South Korea
