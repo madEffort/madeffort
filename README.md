@@ -6,3 +6,7 @@
 ## Public Speaking
 
 * [Beyond Paper: Digital Solutions for Signiel](/assets/signiel_speaking.gif) @ Signiel Seoul, Lotte World Tower, Seoul, South Korea
+
+## Awards
+
+* [The 25th Annual Intelligent Ground Vehicle Competition: 3rd Place](http://www.igvc.org/design/2017/2.pdf) @ Oakland University in Rochester, Michigan, U.S.A.
