@@ -2,6 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-madEffort-171515.svg)](https://github.com/madEffort)
 [![Reddit](https://img.shields.io/badge/Reddit-madEffort-FF5700.svg)](https://www.reddit.com/user/Ok-Vast7149/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-madEffort-ef8236.svg)](https://stackoverflow.com/users/25217828/madeffort)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0e76a8.svg)](https://www.linkedin.com/in/madeffort/)
 [![Naver](https://img.shields.io/badge/Naver-김현우-2db400.svg)](https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&mra=bjky&x_csa=%7B%22fromUi%22%3A%22kb%22%7D&pkid=1&os=32229226&qvt=0&query=%EA%B9%80%ED%98%84%EC%9A%B0%20it%EC%BB%A8%EC%84%A4%ED%84%B4%ED%8A%B8)
 
