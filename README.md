@@ -19,3 +19,10 @@
 
 * [Method and apparatus for providing electronic document data through speaker identification](https://patents.google.com/patent/KR102280453B1/en)
   
+## Skills
+
+* Languages: Python, JavaScript, TypeScript
+* Frameworks & Libraries: Django, FastAPI, React, Celery, WebSockets
+* APIs & Documentation: Swagger, OpenAI API
+* Databases: PostgreSQL, MySQL, MongoDB, Redis
+* DevOps & Deployment: Docker, NGINX, GitHub Actions, AWS, GCP, BentoML, Vercel, Cloudflare (CDN)
