@@ -1,4 +1,4 @@
-# [About Me](https://madeffort.github.io)
+# [About Me](https://madeffort.github.io) 👈
 
 [![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&labelColor=gray)](https://github.com/madEffort)
 [![Reddit](https://img.shields.io/badge/Reddit-FF5700?logo=reddit&labelColor=gray)](https://www.reddit.com/user/Ok-Vast7149/)
