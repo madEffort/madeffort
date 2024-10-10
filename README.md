@@ -18,7 +18,11 @@
 ## Patents
 
 * [Method and apparatus for providing electronic document data through speaker identification](https://patents.google.com/patent/KR102280453B1/en)
-  
+
+## Certificates
+
+* [Innovation and Supply Chain Programme](https://www.credential.net/467e723e-06a7-4681-95bb-b157a7b08450#gs.ggt6d6) @ Cambridge Judge Business School Executive Education, Cambridge, U.K. (Online)
+
 ## Skills
 
 * Languages: Python, JavaScript, TypeScript
