@@ -27,6 +27,6 @@
 * Languages: Python, JavaScript, TypeScript, Java
 * Frameworks & Libraries: Django, Django Ninja, FastAPI, React, Celery, WebSockets, SQLAlchemy, Pydantic
 * APIs & Documentation: Swagger, OpenAI API
-* Databases: PostgreSQL, MySQL, MariaDB, MongoDB, Redis
+* Databases: PostgreSQL, MySQL(InnoDB), MariaDB, MongoDB, Redis
 * DevOps & Deployment: Docker, NGINX, GitHub Actions, AWS(EC2, S3, CloudFront), GCP, BentoML, Vercel, Cloudflare (CDN)
 * Collaboration & Tools: Trello, Discord, VS Code, Git
