@@ -1,5 +1,6 @@
 # [About Me](https://madeffort.github.io) 👈
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmadeffort%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&labelColor=gray)](https://github.com/madEffort)
 [![Reddit](https://img.shields.io/badge/Reddit-FF5700?logo=reddit&labelColor=gray)](https://www.reddit.com/user/Ok-Vast7149/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-ef8236?logo=stackoverflow&labelColor=gray)](https://stackoverflow.com/users/25217828/madeffort)
