@@ -26,7 +26,7 @@
 ## Skills
 
 * Languages: Python, JavaScript, TypeScript, Java
-* Frameworks & Libraries: Django, Django Ninja, FastAPI, React, Celery, WebSockets, SQLAlchemy, Pydantic
+* Frameworks & Libraries: Django, Django Ninja, FastAPI, React, Celery, RabbitMQ, WebSockets, SQLAlchemy, Pydantic, ELK Stack
 * APIs & Documentation: Swagger, OpenAI API
 * Databases: PostgreSQL, MySQL(InnoDB), MongoDB, Redis
 * DevOps & Deployment: Docker, NGINX, GitHub Actions, AWS(EC2, S3, CloudFront), GCP, BentoML, Vercel, Cloudflare (CDN)
