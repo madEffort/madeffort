@@ -22,12 +22,3 @@
 ## Certificates
 
 * [Innovation and Supply Chain Programme](https://www.credential.net/467e723e-06a7-4681-95bb-b157a7b08450#gs.ggt6d6) @ Cambridge Judge Business School Executive Education, Cambridge, U.K. (Online)
-
-## Skills
-
-* Languages: Python, JavaScript, TypeScript, Java
-* Frameworks & Libraries: Django, Django Ninja, FastAPI, React, Celery, RabbitMQ, WebSockets, SQLAlchemy, Pydantic, ELK Stack
-* APIs & Documentation: Swagger, OpenAI API
-* Databases: PostgreSQL, MySQL(InnoDB), MongoDB, Redis
-* DevOps & Deployment: Docker, NGINX, GitHub Actions, AWS(EC2, S3, CloudFront), GCP, BentoML, Vercel, Cloudflare (CDN)
-* Collaboration & Tools: Trello, Discord, VS Code, Git
