@@ -1,8 +1,10 @@
-# [About Me](https://madeffort.github.io) 👈
+# About Me 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0E76A8?style=flat-square)](https://www.linkedin.com/in/madeffort/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=flat-square)](https://stackoverflow.com/users/25217828/madeffort)
 [![Reddit](https://img.shields.io/badge/Reddit-FF5700?style=flat-square)](https://www.reddit.com/user/Ok-Vast7149/)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=madeffort&row=2&column=-1)](https://github.com/madEffort)
 
 
 ## Public Speaking
