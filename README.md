@@ -4,7 +4,7 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=flat-square)](https://stackoverflow.com/users/25217828/madeffort)
 [![Reddit](https://img.shields.io/badge/Reddit-FF5700?style=flat-square)](https://www.reddit.com/user/Ok-Vast7149/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=madeffort&row=2&column=-1)](https://github.com/madEffort)
+[![trophy](https://github-profile-trophy.vercel.app/?username=madeffort&row=2&column=-1&margin-w=4)](https://github.com/madEffort)
 
 
 ## Public Speaking
